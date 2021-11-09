@@ -10,3 +10,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Love you Logie <3 
+
+
+... message from Lo lo
+
+
+```{r}
+plot(cars)
+```
+
