@@ -11,8 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Love you Logie <3 
 
-
-... message from Lo lo
+Love you EB <3 
 
 
 ```{r}
