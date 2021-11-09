@@ -1,0 +1,12 @@
+---
+title: "Git_collaboration_lab_7"
+author: "E Baker"
+date: "11/9/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Love you Logie <3 
